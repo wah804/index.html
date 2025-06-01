@@ -610,7 +610,7 @@
 
     <script>
         // Configuration - REPLACE WITH YOUR ACTUAL WEBHOOK URL
-        const WEBHOOK_URL = 'https://known-cow-yearly.ngrok-free.app/webhook-test/ai-assistant';
+        const WEBHOOK_URL = 'https://known-cow-yearly.ngrok-free.app/webhook/ai-assistant';
         
         // DOM Elements
         const widget = document.getElementById('assistant-widget');
